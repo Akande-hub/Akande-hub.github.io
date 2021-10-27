@@ -3,14 +3,14 @@ title: Akande Oluwatosin Adetoye
 url: "http://Akande-hub.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
-description: >
-  Welcome to my site. I hope you find it exciting!!!
+description: > Welcome to my site. I hope you find it exciting!!!
+ 
 
 # Your information
 email: akande.adetoye@aims.ac.rw
 author: Akande Oluwatosin Adetoye
 avatar: "https://github.com/Akande-hub/Akande-hub.github.io/blob/gh-pages/photos/Akande_face.jpg?raw=true"
-profile: I plan to progress as a Data Scientist and innovative data engineering over the next few years.
+profile: #I plan to progress as a Data Scientist and innovative data engineering over the next few years.
 github_username:  
 profile_links:
   Email: "mailto:akande.adetoye@aims.ac.rw"
